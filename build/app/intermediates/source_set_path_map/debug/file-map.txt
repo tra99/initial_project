@@ -1,0 +1,14 @@
+com.example.initial.app-core-1.6.0-0 C:\Users\Lenovo123\.gradle\caches\transforms-3\06513ead0a614c0ea12b270be38306a4\transformed\core-1.6.0\res
+com.example.initial.app-jetified-window-1.0.0-beta04-1 C:\Users\Lenovo123\.gradle\caches\transforms-3\685de9c9355ed606b2e39808e384393c\transformed\jetified-window-1.0.0-beta04\res
+com.example.initial.app-jetified-annotation-experimental-1.1.0-2 C:\Users\Lenovo123\.gradle\caches\transforms-3\6c25bd13f67569316434678fd6492918\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.initial.app-jetified-window-java-1.0.0-beta04-3 C:\Users\Lenovo123\.gradle\caches\transforms-3\db3098070a422ea96588a64c3437a91c\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.initial.app-debug-4 E:\I4-GIC\CamMob_internship\flutter-initial-app\android\app\src\debug\res
+com.example.initial.app-main-5 E:\I4-GIC\CamMob_internship\flutter-initial-app\android\app\src\main\res
+com.example.initial.app-pngs-6 E:\I4-GIC\CamMob_internship\flutter-initial-app\build\app\generated\res\pngs\debug
+com.example.initial.app-resValues-7 E:\I4-GIC\CamMob_internship\flutter-initial-app\build\app\generated\res\resValues\debug
+com.example.initial.app-rs-8 E:\I4-GIC\CamMob_internship\flutter-initial-app\build\app\generated\res\rs\debug
+com.example.initial.app-mergeDebugResources-9 E:\I4-GIC\CamMob_internship\flutter-initial-app\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.initial.app-mergeDebugResources-10 E:\I4-GIC\CamMob_internship\flutter-initial-app\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.initial.app-merged_res-11 E:\I4-GIC\CamMob_internship\flutter-initial-app\build\app\intermediates\merged_res\debug
+com.example.initial.app-packaged_res-12 E:\I4-GIC\CamMob_internship\flutter-initial-app\build\path_provider_android\intermediates\packaged_res\debug
+com.example.initial.app-packaged_res-13 E:\I4-GIC\CamMob_internship\flutter-initial-app\build\shared_preferences_android\intermediates\packaged_res\debug
